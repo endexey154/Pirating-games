@@ -22,11 +22,11 @@ this is my first project its just me working on this so it might not be updated 
 To torrent, use these programs:
 
 
-- [tixati](https://tixati.com/)  - Torrent Client that can be Portable and is pretty simple to use
+- [tixati](https://tixati.com/)  - Torrent Client that can be Portable and is pretty simple to use.
 
 - [BiglyBT](https://www.biglybt.com/) -Torrent client that is available on PC and your mobile Device.
 
-- [transinmation](https://transmissionbt.com/download/)
+- [transinmation](https://transmissionbt.com/download/) - - Open-Source, Lightweight, and fast Torrent Client.
 
 # torrenting tools 
 
