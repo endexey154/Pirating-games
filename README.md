@@ -26,7 +26,7 @@ To torrent, use these programs:
 
 - [BiglyBT](https://www.biglybt.com/) -Torrent client that is available on PC and your mobile Device.
 
--[transinmation](https://transmissionbt.com/download/)
+- [transinmation](https://transmissionbt.com/download/)
 
 # torrenting tools 
 
