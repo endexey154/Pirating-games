@@ -26,9 +26,6 @@ To torrent, use these programs:
 
 - [BiglyBT](https://www.biglybt.com/) -Torrent client that is available on PC and your mobile Device.
 
-- [deluge](deluge-torrent.org) - Probably the most popular alternative to qBitTorrent.
-
-- [liBtorrent](www.libtorrent.org) - One of the most popular Torrent Clients that is open-source.
 
 # torrenting tools 
 
