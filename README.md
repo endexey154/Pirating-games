@@ -17,7 +17,7 @@ this is my first project its just me working on this so it might not be updated 
 - [mac-torents.io](https:
 - //mac-torrents.io/mac-games/) mac tortrernts.
 
-- [macdrop](https://macdrop.net/) -more mac torrents.
+
 
 - [torrents.csv]([
 ](https://torrents-csv.ml/) -Easy viewing torrent search engine.
