@@ -22,7 +22,7 @@ this is my first project its just me working on this so it might not be updated 
 To torrent, use these programs:
 
 
-- Other noteworthy mentions:
+- [tixati](https://tixati.com/)
 
 - [BiglyBT](https://www.biglybt.com/) -Torrent client that is available on PC and your mobile Device.
 
