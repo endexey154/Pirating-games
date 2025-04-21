@@ -9,4 +9,8 @@ this is my first project its just me working on this so it might not be updated 
 
 - [what are torrents?](https://en.wikipedia.org/wiki/BitTorrent)
 
-- [FAQ](https://en.wikipedia.org/wiki/BitTorrent)
+- [FAQ](https://en.wikipedia.org/wiki/BitTorren)
+
+
+- [1337x](https://1337x.to/) - Before going there though, don't torrent from IGGGAMESCOM, haxNode, nosTeam, crackingpatching, or CracksHash, as they are suspicious users and had uploaded malware in the past. The place has lots of content and is well moderated
+
