@@ -20,7 +20,7 @@ this is my first project its just me working on this so it might not be updated 
 # torrent sofware
 
 To torrent, use these programs:
-- top choice [Qbittorrent](www.qbittorrent.org)
+
 
 - Other noteworthy mentions:
 
