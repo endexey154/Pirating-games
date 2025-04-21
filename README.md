@@ -16,12 +16,6 @@ this is my first project its just me working on this so it might not be updated 
 
 
 
-- [torrents.csv]([
-](https://torrents-csv.ml/) -Easy viewing torrent search engine.
-
-
--[Rutracker](rutracker.org) -Russian Torrent Forum. One of the best sites to get games that are good in quality and well-seeded.
-
 
 # torrent sofware
 
