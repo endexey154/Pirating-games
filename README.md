@@ -66,7 +66,7 @@ Other noteworthy mentions:
 
 - [mobielism](https://forum.mobilism.org/index.php) - mobile apps and games.
 
--[myanbanededware](https://www.myabandonware.com/) - Mostly consists of free downloads for old, retro, and abandoned games that aren't sold in official stores like Steam, Epic, GOG, etc. This won't have every classic game you want (For example: Doom, Duke Nukem 3D, and BLOOD), but if you are into Abandonware stuff, this is a treasure trove for you!.
+- [myanbanededware](https://www.myabandonware.com/) - Mostly consists of free downloads for old, retro, and abandoned games that aren't sold in official stores like Steam, Epic, GOG, etc. This won't have every classic game you want (For example: Doom, Duke Nukem 3D, and BLOOD), but if you are into Abandonware stuff, this is a treasure trove for you!.
 
 
 
