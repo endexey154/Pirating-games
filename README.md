@@ -68,7 +68,13 @@ Other noteworthy mentions:
 
 - [myanbanededware](https://www.myabandonware.com/) - Mostly consists of free downloads for old, retro, and abandoned games that aren't sold in official stores like Steam, Epic, GOG, etc. This won't have every classic game you want (For example: Doom, Duke Nukem 3D, and BLOOD), but if you are into Abandonware stuff, this is a treasure trove for you!.
 
-- Oculus Quest users can download games from this [thread] on CS.RIN.RU)forum. This post is also helpful.
+
+# repacks 
+Repacks are highly compressed game downloads, designed for people with slow/limited internet bandwidth. All listed below are trusted repackers with no malware.
+
+
+
+
 
 
 
