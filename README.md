@@ -41,7 +41,7 @@ To torrent, use these programs:
 - [ngosang](https://github.com/ngosang/trackerslist) - Tracker Collection that only collects mostly high quality trackers.
 
 
-@Paid Games that don't require a Pirated Version to play! 
+# Paid Games that don't require a Pirated Version to play! 
 
 -[powerslave](https://drive.google.com/file/d/1VFvOYKyjyFwH5sqSL5mz_jl3SdIUcAOY/view) -PowerSlaveEX was a free and open-source source port/remaster of the PowerSlave PlayStation version for PC. Unfortunately, it was taken down years ago. I currently have the Windows version available, including the essential mouse movement fix patch—without this patch, the game is completely unplayable.
 
