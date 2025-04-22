@@ -58,9 +58,13 @@ It’s pretty solid overall and does a great job of capturing the classic vibe.
 
 # Direct Download Sites:
 
-Best site overall: CS.RIN.RU - Steam Underground Community - Best place for any game, this should be the first place you check. Does not allow Scene releases.
+Best site overall: [cs.ru.run](https://cs.rin.ru/forum/) - Steam Underground Community - Best place for any game, this should be the first place you check. Does not allow Scene releases.
 
 Other noteworthy mentions:
+
+- [Gload](https://gload.cc/) -German DDL site.
+
+- [mobielism](https://forum.mobilism.org/index.php) - mobile apps and games.
 
 
 
